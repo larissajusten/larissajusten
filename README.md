@@ -1,4 +1,4 @@
-<h2> 𝐇𝐢, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞! <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐢, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif" width="30px"> </h2>
 
 I'm a computer engineer student 📚 who loves design and tech. Intern developer at CWISoftware 👩🏼‍💻 and Communication Director of the Academic Technology Directory at @UERGS. 
 
