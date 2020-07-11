@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> 𝐇𝐢, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞! <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**larissajusten/larissajusten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineer student 📚 who loves design and tech. Intern developer at CWISoftware 👩🏼‍💻 and Communication Director of the Academic Technology Directory at @UERGS. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Java Spring
+- 🌱 I’m currently learning UI Design and Android, *watching dark*
+- 🤔 I’m looking for help with Android
+- 💬 Ask me about  tech, coffee, cs:go, veggie, yoga 🧘🏼‍♀️
+- 😄 Pronouns: she/her
+- ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
+- ⚡ Languages: C, C++, Java, TypeScript, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Nice to meet you ◔◡◔
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@larissajusten-4d9bc0?style=flat-square&labelColor=4d9bc0&logo=twitter&logoColor=white&link=https://twitter.com/larissajusten)](https://twitter.com/larissajusten) [![Instagram Badge](https://img.shields.io/badge/-@larissaespelocin-cb3b63?style=flat-square&labelColor=cb3b63&logo=Instagram&logoColor=white&link=https://www.instagram.com/larissaespelocin/)](https://www.instagram.com/larissaespelocin/) [![Linkedin Badge](https://img.shields.io/badge/-larissajusten-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissajusten/)](https://www.linkedin.com/in/larissajusten/) [![Gmail Badge](https://img.shields.io/badge/-larissajusten@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissajusten@gmail.com)](mailto:larissajusten@gmail.com)
+
+---
+⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
+
