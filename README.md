@@ -1,10 +1,10 @@
-<h2> 𝐇𝐢, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/godcrampy/godcrampy/master/hello.gif" width="30px"> </h2>
+<h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! <img src="https://emoji.slack-edge.com/TESKSKPTQ/broccoli-happy/4e3f2199769faf80.gif" width="30px"> </h2>
 
-I'm a computer engineer student 📚 who loves design and tech. Intern developer at CWISoftware 👩🏼‍💻 and Communication Director of the Academic Technology Directory at @UERGS. 
+I'm a computer engineer student 📚 who loves design and tech. Intern developer at CWISoftware 👩🏼‍💻 and Communication Director of the Academic Technology Directory at @UERGS.
 
 - 🔭 I’m currently working on Java Spring
-- 🌱 I’m currently learning UI Design and Android, *watching dark*
-- 🤔 I’m looking for help with Android
+- 🌱 I’m currently learning UI Design and Android
+- 🤔 I’m looking for help with Android *and netflix dark series*
 - 💬 Ask me about  tech, coffee, cs:go, veggie, yoga 🧘🏼‍♀️
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
