@@ -5,7 +5,7 @@ I'm a computer engineer student 📚 who loves design and tech. Intern developer
 - 🔭 I’m currently working on Angular 7
 - 🌱 I’m currently learning UI Design, Static Web Apps
 - 🤔 I’m looking for help with Angular, *netflix dark series*
-- 💬 Ask me about  tech, coffee, cs:go, veggie, yoga 🧘🏼‍♀️
+- 💬 Ask me about  tech, coffee, cs:go, veggie, jiu-jitsu 🤼‍♀️ 🥋  
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
 - ⚡ Languages: C, C++, Java, TypeScript, JavaScript
