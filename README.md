@@ -1,10 +1,10 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! <img src="https://emoji.slack-edge.com/TESKSKPTQ/broccoli-happy/4e3f2199769faf80.gif" width="30px"> </h2>
 
-I'm a computer engineer student 📚 who loves design and tech. Frontend developer at CWISoftware 👩🏼‍💻.
+I'm a computer engineer student 📚 who loves design and tech. Frontend developer at Qulture.Rocks <img src="https://qulture.rocks/wp-content/uploads/2021/05/cropped-icon-32x32.png" width="14px">👩🏼‍💻.
 
-- 🔭 I’m currently working on Angular 7
-- 🌱 I’m currently learning UI Design, Static Web Apps
-- 🤔 I’m looking for help with Angular, *netflix dark series*
+- 🔭 I’m currently working on ReactJS and AngularJS.
+- 🌱 I’m currently learning UI Design
+- 🤔 I’m looking for help with Cypress, *netflix dark series*
 - 💬 Ask me about  tech, coffee, cs:go, vegetarian food, jiu-jitsu 🤼‍♀️ 🥋  
 - 😄 Pronouns: https://pronouns.me/she
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
