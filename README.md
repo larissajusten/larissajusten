@@ -6,7 +6,7 @@ I'm a computer engineer student 📚 who loves design and tech. Frontend develop
 - 🌱 I’m currently learning UI Design
 - 🤔 I’m looking for help with Cypress, *netflix dark series*
 - 💬 Ask me about  tech, coffee, cs:go, vegetarian food, jiu-jitsu 🤼‍♀️ 🥋  
-- 😄 Pronouns: https://pronouns.me/she
+- 😄 Pronouns: https://pronoun.is/she
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
 - ⚡ Languages: C, C++, Java, TypeScript, JavaScript
 
