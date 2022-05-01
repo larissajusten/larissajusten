@@ -8,7 +8,7 @@ I'm a computer science student 📚 who loves design and tech. Frontend develope
 - 💬 Ask me about tech, coffee, cs:go, vegetarian food, jiu-jitsu 🤼‍♀️ 🥋  
 - 😄 Pronouns: https://pronoun.is/she
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
-- ⚡ Languages: C, C++, Java, TypeScript, JavaScript
+- ⚡ Languages: C, C++, Java, TypeScript, JavaScript, Python, VHDL, HTML
 
 > Remmember: you can do it (ง'̀-'́)ง
 
