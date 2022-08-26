@@ -14,7 +14,3 @@ I'm a computer science student 📚 who loves design and tech. Frontend develope
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@larissajusten-4d9bc0?style=flat-square&labelColor=4d9bc0&logo=twitter&logoColor=white&link=https://twitter.com/larissajusten)](https://twitter.com/larissajusten) [![Instagram Badge](https://img.shields.io/badge/-@larissaespelocin-cb3b63?style=flat-square&labelColor=cb3b63&logo=Instagram&logoColor=white&link=https://www.instagram.com/larissaespelocin/)](https://www.instagram.com/larissaespelocin/) [![Linkedin Badge](https://img.shields.io/badge/-larissajusten-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissajusten/)](https://www.linkedin.com/in/larissajusten/) [![Gmail Badge](https://img.shields.io/badge/-larissajusten@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissajusten@gmail.com)](mailto:larissajusten@gmail.com)
-
----
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
-
