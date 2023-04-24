@@ -2,6 +2,7 @@
 
 I'm a computer science student 📚 who loves design and tech. Frontend developer at Qulture.Rocks <img src="https://qulture.rocks/wp-content/uploads/2021/05/cropped-icon-32x32.png" width="14px">👩🏼‍💻.
 
+- 💜 I'm a volunteer at [@WoMakersCode](https://womakerscode.org/) tech community
 - 🔭 I’m currently working on ReactJS and AngularJS.
 - 🌱 I’m currently learning UI Design
 - 🤔 I’m looking for help with Cypress, *netflix dark series*
