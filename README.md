@@ -2,7 +2,7 @@
 
 I'm a computer science student 📚 who loves design and tech 👩🏼‍💻.
 
-- 🔭 I’m currently working on ReactJS and AngularJS.
+- 🔭 I’m currently working on Svelte with Typescript.
 - 🌱 I’m currently learning UI Design
 - 🤔 I’m looking for help with Cypress, *netflix dark series*
 - 💬 Ask me about tech, coffee, cs:go, vegetarian food, jiu-jitsu 🤼‍♀️ 🥋  
