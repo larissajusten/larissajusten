@@ -2,10 +2,10 @@
 
 I'm a computer science student 📚 who loves design and tech 👩🏼‍💻.
 
-- 🔭 I’m currently working on Svelte with Typescript.
-- 🌱 I’m currently learning UI Design
+- 🔭 I’m currently working on Next with GSAP and NodeJs.
+- 🌱 I’m currently learning UI & UX Design, Observability and Sec on Frontend.  
 - 🤔 I’m looking for help with Cypress, *netflix dark series*
-- 💬 Ask me about tech, coffee, cs:go, vegetarian food, jiu-jitsu 🤼‍♀️ 🥋  
+- 💬 Ask me about tech, coffee, cs:go, jiu-jitsu 🤼‍♀️ 🥋  
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I'm a PLP (*promotora legal popular*). A person who works in defense, preventing violations and promoting rights. [More.](http://themis.org.br/fazemos/promotoras-legais-populares/)
 - ⚡ Languages: C, C++, Java, TypeScript, JavaScript, Python, VHDL, HTML
