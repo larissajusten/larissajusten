@@ -6,11 +6,11 @@ import { useRef } from "react";
 
 import TreeOne from './TreeOne';
 import TreeTwo from './TreeTwo';
+import TreeThree from './TreeThree';
+import TreeFour from './TreeFour';
 
 export default function Trees() {
   useGSAP(() => {
-    // Tree growth animation
-    // Animate trunk and branches growing from bottom to top
     gsap.from(".main-branch", {
       overflowX: 0,
       opacity: 0,
@@ -64,6 +64,14 @@ export default function Trees() {
 
       <div className='tree-two fixed right-[300px] bottom-0 w-[600px] h-full z-[12]'>
         <TreeTwo />
+      </div>
+
+      <div className='tree-three fixed left-[300px] bottom-0 w-[600px] h-full z-[12]'>
+        <TreeThree />
+      </div>
+
+      <div className='tree-four fixed right-[300px] bottom-0 w-[600px] h-full z-[12]'>
+        <TreeFour />
       </div>
 
       {/* <svg width="100%" height="100%" viewBox="0 0 600 800" preserveAspectRatio="xMidYMax meet"> */}
